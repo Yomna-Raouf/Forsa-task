@@ -1,0 +1,17 @@
+
+.nav {
+  @apply fixed top-0 w-screen z-20;
+   box-shadow: 0px 0px 76px #0000001A;
+}
+
+.container {
+  @apply py-3 px-8;
+}
+
+.navTopPartContainer {
+  @apply flex items-center justify-between;
+}
+
+.icon {
+  @apply cursor-pointer;
+}
